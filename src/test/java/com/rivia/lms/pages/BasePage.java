@@ -37,3 +37,4 @@ public class BasePage {
         return element.getText();
     }
 }
+# basepage

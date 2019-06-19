@@ -57,3 +57,4 @@ public class LoginPage extends BasePage {
     }
 }
 # login page
+# fix wait

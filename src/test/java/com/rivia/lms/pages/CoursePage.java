@@ -65,3 +65,4 @@ public class CoursePage extends BasePage {
         return progressBar.getAttribute("aria-valuenow");
     }
 }
+# course page

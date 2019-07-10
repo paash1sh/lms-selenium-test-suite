@@ -66,3 +66,4 @@ public class CoursePage extends BasePage {
     }
 }
 # course page
+# selector fix

@@ -61,3 +61,4 @@ mvn test -Dbrowser=firefox
 - Tests use Page Object Model for maintainability
 - Driver setup is handled by `DriverFactory` — swap browser via config
 - Screenshots on failure can be enabled in `DriverFactory.java`
+# readme
